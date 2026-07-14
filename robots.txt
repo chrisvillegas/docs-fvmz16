@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pvahoh.citysinglescommunity.com/sitemap.xml
